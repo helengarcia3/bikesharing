@@ -3,11 +3,11 @@
 Overview of the statistical analysis:
 
 # Purpose 
-The purpose of this analysis is to determine whether Kate should start a similar bike sharing company in DeMoins, Iowa. We will be analyzing the NYC Citi data for August to see how the bike sharing is used and vizualizing it using Tablea Public to create maps, see trends and heat maps.
+The purpose of this analysis is to determine whether Kate should start a similar bike sharing company in Des Moines, Iowa. We will be analyzing the NYC Citi data for August to see how the bike sharing is used and visualizing it using Tableau Public to create maps, see trends and heat maps.
 
 # Results
 
-The publically available data from Citi Bike for August was used as the data source to create the Tableau workbook and story.
+The publicly available data from Citi Bike for August was used as the data source to create the Tableau workbook and story.
 
 ### Checkout Times for Users
 
@@ -28,13 +28,13 @@ This heatmap shows the checkout time for the rides and the day of the week the r
 
 ### Trips by Weekday per Hour
 
-This heatmap breaksout the rides by gender. By comparing Females and males we can tell that ride times are popular around the same times but the male side has deeper color around those times since there is more volume witht he men than the women even though they are all riding around the same times. 
+This heat-map breaks-out the rides by gender. By comparing Females and males we can tell that ride times are popular around the same times but the male side has deeper color around those times since there is more volume with the men than the women even though they are all riding around the same times. 
 
 <img width="1159" alt="Screen Shot 2022-09-21 at 3 33 34 PM" src="https://user-images.githubusercontent.com/107590196/191642560-7427714c-af08-4daa-a20b-51043c437d16.png">
 
 ### Trips by Gender by Weekday
 
-This heatmap shows Customer vs Subscriber. We can gather that the customer basis is pretty in comparison to the the people with subscriptions. It is clear that male subscribers are the top customers for the bikes. 
+This heat-map shows Customer vs Subscriber. We can gather that the customer basis is pretty in comparison to the the people with subscriptions. It is clear that male subscribers are the top customers for the bikes. 
 
 <img width="1164" alt="Screen Shot 2022-09-21 at 3 34 08 PM" src="https://user-images.githubusercontent.com/107590196/191642566-45d44417-b54d-4bd7-820a-102218f9802a.png">
 
@@ -46,7 +46,7 @@ The map shows the starting checkout locations. The darker blue and bigger bubble
 
 ### Top Ending Locations
 
-The map shows the ending locations for the rides. The darker red and bigger bubbles represent the most popular areas the bikes were riden to.
+The map shows the ending locations for the rides. The darker red and bigger bubbles represent the most popular areas the bikes were ridden to.
 
 ![Screen Shot 2022-09-21 at 10 45 03 PM](https://user-images.githubusercontent.com/107590196/191646936-cb6da922-488e-4d33-9e34-5199b7cd7255.png)
 
@@ -54,4 +54,14 @@ The map shows the ending locations for the rides. The darker red and bigger bubb
 
 # Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+ We compared days of the weeks and hours of the day and we can see that the heat maps hold heat from 7-9 am and 5-6 pm during the weekdays in which we can conclude that these are commutes for people who work 9-5 jobs. We also looked at genders and can conclude that the bikes are popular amongst males even though men and women ride around the same time for similar durations. 
+ 
+ The maps with the starting and ending locations are also similar in the areas of popularity. This can also back the point that people are using the bikes as a form of transportation to work so they checkout and drop off at the same places daily. 
+ 
+
+
+Two additional visualizations that would add value to this analysis are:
+1. How many subscribers are actively using their membership with Citi bike. If there are a lot of subscribers that are not using the bikes, this can lead to more profits. 
+2. An entire year of data and how the weather affects the rides. August in New York is how but also nice weather. How does a New York Winter affect the volume of these bike rentals.
+
+In conclusion, the Citi bikes are most popular as a way to commute to and from work. This makes sense since people in NYC do not often have cars to commute in the city. This concept in Des Moines, Iowa would probably not succeed since majority of the customer base in Iowa would use the bikes for tourism or leisure rather than a daily necessity for transportation. 
