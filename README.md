@@ -5,6 +5,8 @@ Overview of the statistical analysis:
 # Purpose 
 The purpose of this analysis is to determine whether Kate should start a similar bike sharing company in Des Moines, Iowa. We will be analyzing the NYC Citi data for August to see how the bike sharing is used and visualizing it using Tableau Public to create maps, see trends and heat maps.
 
+[link to dashboard] https://public.tableau.com/views/CitiBikeAnalysisDeliverable/CitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 # Results
 
 The publicly available data from Citi Bike for August was used as the data source to create the Tableau workbook and story.
